@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+
+// Uses same name from clean.scss but overwrites values
+$jet: #131516;
+$accent: #9a2515;
+$accent2: #107895;
+
+/*-- scss:rules --*/
+.reveal h3 {
+  font-size: 1.2em;
+}
